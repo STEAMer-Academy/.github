@@ -1,5 +1,5 @@
-<h6>
-    <img src="https://raw.githubusercontent.com/STEAMer-Academy/.github/main/profile/20240802_221113_0000.webp" alt="Logo" class="logo">
+<h6 align="center">
+    <img src="https://raw.githubusercontent.com/STEAMer-Academy/.github/main/profile/20240802_221113_0000.webp" alt="Logo" class="logo" width="20%">
 </h6>
 
 
