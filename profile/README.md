@@ -3,7 +3,7 @@
 </h6>
 
 
-<h3 align="center">The STEAMer Academy</h3>
+<h3 align="center">STEAMER Academy</h3>
 
 <h5 align="center">
   <a href="http://ipa-reader.xyz/?text=%C3%B0i%CB%90%CB%88sti%CB%90.m%C9%99r%C9%99%CB%88k%C3%A6d.%C9%99.mi">/ðiːˈstiː.mərəˈkæd.ə.mi/</a>
@@ -18,8 +18,9 @@
     <img src="https://img.shields.io/discord/1225805405578596352?style=for-the-badge&color=c6a0f6&labelColor=363a4f&logo=discord&logoColor=cad3f5">
 </p>
 
+<p align="center"> Where Creativity Meets Innovation </p>
 <p align="center">
-    STEAMER is a dynamic organization dedicated to igniting a passion for learning in Science, Technology, Engineering, Arts, and Math (STEAM). We believe that every child has the potential to become a creative problem-solver, a skilled inventor, and a curious explorer of the world around them.
+    STEAMER Academy is a dynamic organization dedicated to igniting a passion for learning in Science, Technology, Engineering, Arts, and Math (STEAM). We believe that every child has the potential to become a creative problem-solver, a skilled inventor, and a curious explorer of the world around them.
 </p>
 
 <p align="center">
