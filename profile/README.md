@@ -9,17 +9,6 @@
   <a href="http://ipa-reader.xyz/?text=%C3%B0i%CB%90%CB%88sti%CB%90.m%C9%99r%C9%99%CB%88k%C3%A6d.%C9%99.mi">/ðiːˈstiː.mərəˈkæd.ə.mi/</a>
 </h5>
 
-
-<style>
-  .logo {
-    width: 150px; 
-    height: 150px; 
-    border-radius: 50%; 
-    border: 2px solid transparent; 
-    display: block; 
-    margin: 0 auto; 
-</style>
-
 <h6>
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png">
 </h6>
