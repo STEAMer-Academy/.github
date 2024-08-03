@@ -39,7 +39,6 @@
       <img src="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo"/>
     </picture>
   </a>
-
 </p>
 
 <h3 align="center">
