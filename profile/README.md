@@ -21,7 +21,7 @@
 
 <p align="center"> Where Creativity Meets Innovation </p>
 <p align="center">
-    STEAMER Academy is a dynamic organization dedicated to igniting a passion for learning in Science, Technology, Engineering, Arts, and Math (STEAM). We believe that every child has the potential to become a creative problem-solver, a skilled inventor, and a curious explorer of the world around them.
+    STEAMer Academy is a dynamic organization dedicated to igniting a passion for learning in Science, Technology, Engineering, Arts, and Math (STEAM). We believe that every child has the potential to become a creative problem-solver, a skilled inventor, and a curious explorer of the world around them.
 </p>
 
 <p align="center">
