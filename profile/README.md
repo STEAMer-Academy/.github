@@ -45,6 +45,7 @@
     Join Our Community ! Donations are always great ! 
 </h3>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R212100L)
-
+<h3 align="center">
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R212100L)
+</h3>
 
