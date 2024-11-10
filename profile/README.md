@@ -35,11 +35,6 @@
             <img src="https://api.iconify.design/fa6-brands/github.svg?color=%23cad3f5" alt="GitHub Logo" width="32" height="32">
         </span>
     </a>
-<!--     <a href="https://twitter.com/intent/tweet?text=Check%20out%20STEAMer%20Academy!&url=https://www.steameracademy.me">
-        <span style="background-color: #363a4f; padding: 10px; border-radius: 50%; display: inline-block;">
-            <img src="https://api.iconify.design/fa6-brands/twitter.svg?color=%23cad3f5" alt="Twitter Logo" width="32" height="32">
-        </span>
-    </a> -->
     <a href="https://whatsapp.com/channel/0029VaM5E3V1NCrcgLXjKN43">
         <span style="background-color: #363a4f; padding: 10px; border-radius: 50%; display: inline-block;">
             <img src="https://api.iconify.design/fa6-brands/whatsapp.svg?color=%23cad3f5" alt="WhatsApp Logo" width="32" height="32">
@@ -51,6 +46,12 @@
         </span>
     </a>
 </h4>
+
+<!--     <a href="https://twitter.com/intent/tweet?text=Check%20out%20STEAMer%20Academy!&url=https://www.steameracademy.me">
+        <span style="background-color: #363a4f; padding: 10px; border-radius: 50%; display: inline-block;">
+            <img src="https://api.iconify.design/fa6-brands/twitter.svg?color=%23cad3f5" alt="Twitter Logo" width="32" height="32">
+        </span>
+    </a> -->
 
 <h3 align="center">
     Join Our Community ! Donations are always great ! 
