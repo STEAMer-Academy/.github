@@ -24,8 +24,7 @@
     STEAMer Academy is a dynamic organization dedicated to igniting a passion for learning in Science, Technology, Engineering, Arts, and Math (STEAM). We believe that every child has the potential to become a creative problem-solver, a skilled inventor, and a curious explorer of the world around them.
 </p>
 
-<p align="center">
-   <p align="center">
+<h4 align="center">
     <a href="https://discord.gg/HNhjQAfq9U">
         <span style="background-color: #363a4f; padding: 10px; border-radius: 50%; display: inline-block;">
             <img src="https://api.iconify.design/fa6-brands/discord.svg?color=%23cad3f5" alt="Discord Logo" width="32" height="32">
@@ -51,8 +50,7 @@
             <img src="https://api.iconify.design/fa6-brands/facebook.svg?color=%23cad3f5" alt="Facebook Logo" width="32" height="32">
         </span>
     </a>
-</p>
-</p>
+</h4>
 
 <h3 align="center">
     Join Our Community ! Donations are always great ! 
