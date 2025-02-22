@@ -10,7 +10,7 @@
 </h5>
 
 <h6>
-    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png">
+    <img src="https://raw.githubusercontent.com/STEAMer-Academy/.github/main/macchiato.png">
 </h6>
 
 <p align="center">
